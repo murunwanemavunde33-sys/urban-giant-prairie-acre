@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Vula — past papers and memorandums",
+      "hasCanvas": false,
+      "bodyTextLen": 5004,
+      "bodyTextHash": "7c19f294a2b9ed8c9fbf6c6209b5877615b610baa370e2ada787530bb4734ac8",
+      "bodyTextPrefix": "V Vula Past papers and memorandums Saved 0 Every published paper",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Vula — past papers and memorandums",
+      "hasCanvas": false,
+      "bodyTextLen": 5004,
+      "bodyTextHash": "7c19f294a2b9ed8c9fbf6c6209b5877615b610baa370e2ada787530bb4734ac8",
+      "bodyTextPrefix": "V Vula Past papers and memorandums Saved 0 Every published paper",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
